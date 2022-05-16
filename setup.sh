@@ -52,6 +52,9 @@ install $malwareOutput
 download $sohposLink $sohposOutput
 
 download "https://downloads.bbc.co.uk/connect/BBC_First_Click_Beginners_Guide.pdf" "~/Desktop/BBC_First_Click.pdf"
+## TODO
+# Sort Install Sophos out
+# Automate Download of Chrome and Teams
 
 
 ## Future dev stuff - ignore 
