@@ -51,7 +51,7 @@ install $malwareOutput
 
 download $sohposLink $sohposOutput
 
-
+download "https://downloads.bbc.co.uk/connect/BBC_First_Click_Beginners_Guide.pdf" "~/Desktop/BBC_First_Click.pdf"
 
 
 ## Future dev stuff - ignore 
